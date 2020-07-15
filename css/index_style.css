@@ -1,0 +1,22 @@
+body {
+    background-color: #8C5946;
+}
+
+#myBtn {
+    color: #BF846F;
+}
+h2 {
+    color: #F2F0D8;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+h3 {
+    color: #F2F0D8;
+}
+.quoteContainer {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.title {
+text-shadow: black 10px;
+}
