@@ -7,14 +7,15 @@ body {
 }
 h2 {
     color: #F2F0D8;
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+
 }
 
 h3 {
     color: #F2F0D8;
 }
 .quoteContainer {
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 
 .title {
